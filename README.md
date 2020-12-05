@@ -13,4 +13,4 @@
 ## Results from the study
 ###### 1. 2018 and 2019 had the most negative lyrics recorded in the last 62 years <br/> 2. 1979 (as per Procedure 1 and 3) and 1997 (as per Procedure 2) had the most positive lyrics recorded in the last 62 years <br/> 3. All three graphs (with different assumptions and normalizations) indicate an overall net positive polarity and suggest a general trend of the net sentiment polarity (decreasing) heading towards a more negative sentiment. <br/> 4. As seen in table 1, we can clearly see how top keywords from 1958 are usually used in a positive context to express joy, whereas top keywords from 2019 are mostly slangs, generally used in negative/offensive contexts to express anger and sorrow.
 
-## Note: Detailed Analysis and Report available in the 'Final Report.pdf' file.
+### Note: Detailed Analysis and Report available in the 'Final Report.pdf' file.
